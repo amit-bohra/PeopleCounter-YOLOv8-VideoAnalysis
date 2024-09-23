@@ -1,0 +1,5754 @@
+{
+    "count_change_events": [
+        {
+            "event_type": "ENTER",
+            "timestamp": "0.0"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "0.1"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "0.13"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "0.2"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "0.27"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "0.33"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "0.37"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "0.4"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "0.47"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "0.5"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "0.6"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "0.67"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "0.7"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "0.73"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "0.77"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "0.8"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "0.83"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "0.87"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "0.93"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "0.97"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "1.0"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "1.03"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "1.07"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "1.1"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "1.13"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "1.2"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "1.23"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "1.27"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "1.33"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "1.4"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "1.5"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "1.53"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "1.6"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "1.63"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "1.67"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "1.7"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "1.74"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "1.77"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "1.8"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "1.84"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "1.9"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "1.94"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "1.97"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "2.07"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "2.14"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "2.17"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "2.2"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "2.24"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "2.27"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "2.3"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "2.34"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "2.44"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "2.47"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "2.5"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "2.54"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "2.64"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "2.67"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "2.7"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "2.74"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "2.8"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "2.84"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "2.87"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "2.94"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "2.97"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "3.0"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "3.14"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "3.17"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "3.2"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "3.24"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "3.27"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "3.3"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "3.37"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "3.4"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "3.44"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "3.47"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "3.5"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "3.57"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "3.6"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "3.64"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "3.67"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "3.7"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "3.74"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "3.87"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "3.9"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "3.94"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "4.04"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "4.07"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "4.14"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "4.17"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "4.2"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "4.24"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "4.34"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "4.44"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "4.47"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "4.5"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "4.54"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "4.57"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "4.6"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "4.67"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "4.7"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "4.8"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "4.84"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "4.9"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "4.94"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "5.0"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "5.11"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "5.14"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "5.21"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "5.24"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "5.27"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "5.31"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "5.34"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "5.37"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "5.44"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "5.47"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "5.61"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "5.64"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "5.67"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "5.71"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "5.74"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "5.77"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "5.81"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "5.84"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "5.87"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "5.94"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "5.97"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "6.01"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "6.17"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "6.24"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "6.27"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "6.31"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "6.37"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "6.41"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "6.44"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "6.47"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "6.57"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "6.61"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "6.64"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "6.67"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "6.71"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "6.81"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "6.84"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "6.94"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "7.04"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "7.11"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "7.21"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "7.24"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "7.31"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "7.44"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "7.47"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "7.54"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "7.61"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "7.64"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "7.91"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "7.97"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "8.01"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "8.04"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "8.07"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "8.11"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "8.14"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "8.21"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "8.31"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "8.34"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "8.38"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "8.48"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "8.51"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "8.54"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "8.61"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "8.74"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "8.78"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "8.84"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "8.91"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "8.94"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "8.98"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "9.14"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "9.88"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "9.91"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "9.98"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "10.01"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "10.04"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "10.11"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "10.18"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "10.24"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "10.28"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "10.38"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "10.41"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "10.44"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "10.68"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "10.74"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "10.81"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "10.84"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "10.94"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "11.08"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "11.18"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "11.64"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "11.68"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "12.31"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "12.45"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "12.48"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "12.65"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "12.68"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "12.85"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "12.88"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "12.91"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "12.95"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "13.48"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "13.51"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "13.61"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "13.85"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "13.98"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "14.31"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "14.45"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "14.51"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "14.55"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "14.71"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "14.75"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "14.85"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "14.98"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "15.02"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "15.08"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "15.12"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "15.28"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "15.32"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "15.55"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "15.58"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "15.88"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "15.92"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "17.22"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "17.32"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "18.65"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "18.69"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "19.02"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "19.09"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "19.52"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "19.62"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "19.65"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "19.72"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "20.19"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "20.22"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "20.25"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "20.35"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "20.39"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "20.42"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "20.52"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "20.55"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "20.59"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "20.69"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "20.72"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "20.75"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "20.79"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "20.82"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "20.89"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "20.95"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "20.99"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "21.05"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "21.09"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "21.15"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "21.22"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "21.25"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "21.29"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "21.35"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "21.59"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "21.62"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "21.65"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "21.72"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "21.76"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "21.82"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "21.86"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "21.89"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "21.92"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "21.96"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "21.99"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "22.02"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "22.22"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "22.29"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "22.36"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "22.39"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "22.56"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "22.59"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "22.69"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "22.76"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "23.16"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "23.19"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "23.32"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "23.52"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "23.72"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "23.76"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "23.82"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "23.86"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "23.89"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "23.96"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "24.09"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "24.12"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "24.16"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "24.19"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "24.29"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "24.32"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "24.36"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "24.39"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "24.42"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "24.46"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "24.56"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "24.62"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "24.66"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "24.79"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "24.82"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "24.89"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "24.92"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "24.99"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "25.03"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "25.09"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "25.16"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "25.19"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "25.23"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "25.26"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "25.33"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "25.36"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "25.49"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "25.63"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "25.66"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "25.76"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "25.83"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "26.03"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "26.23"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "26.29"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "26.49"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "26.53"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "26.69"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "26.86"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "26.93"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "29.43"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "29.63"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "29.8"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "29.83"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "29.96"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "30.0"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "30.4"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "31.73"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "31.9"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "32.0"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "32.03"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "32.97"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "34.17"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "34.23"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "34.6"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "34.63"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "34.77"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "36.64"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "36.7"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "36.74"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "36.84"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "36.87"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "37.04"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "37.14"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "37.57"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "37.64"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "38.0"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "38.07"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "38.51"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "38.64"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "38.74"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "38.81"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "38.84"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "39.64"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "39.87"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "40.11"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "40.27"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "40.31"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "40.41"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "40.64"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "41.07"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "41.11"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "41.17"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "41.27"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "41.71"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "41.74"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "41.84"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "42.08"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "42.28"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "42.84"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "43.31"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "43.44"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "43.48"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "43.51"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "43.58"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "43.71"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "43.84"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "43.98"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "44.44"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "44.68"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "44.81"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "45.21"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "45.38"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "45.41"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "45.45"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "45.48"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "45.81"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "45.95"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "46.05"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "46.08"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "46.11"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "46.21"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "46.25"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "46.28"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "46.31"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "46.35"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "46.45"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "46.48"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "46.58"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "46.68"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "46.75"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "46.81"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "46.88"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "46.95"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "46.98"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "47.01"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "47.21"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "47.31"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "47.65"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "47.68"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "47.71"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "47.75"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "48.01"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "48.05"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "48.08"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "48.11"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "48.15"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "48.18"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "48.28"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "48.31"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "48.38"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "48.42"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "48.45"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "48.48"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "48.55"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "48.62"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "48.65"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "48.72"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "48.75"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "48.82"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "48.85"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "48.88"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "48.92"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "48.98"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "49.05"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "49.12"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "49.15"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "49.18"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "49.28"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "49.35"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "49.48"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "49.55"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "49.58"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "50.05"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "50.12"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "50.15"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "50.18"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "50.25"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "50.28"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "50.45"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "50.52"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "50.62"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "50.68"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "50.75"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "50.82"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "50.85"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "51.05"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "51.08"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "51.12"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "51.32"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "51.35"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "51.42"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "51.45"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "51.48"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "51.52"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "51.58"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "52.09"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "52.12"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "52.19"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "52.22"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "52.25"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "52.42"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "52.45"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "52.49"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "52.72"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "52.75"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "52.79"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "52.82"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "53.12"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "53.15"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "53.29"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "53.52"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "53.62"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "53.69"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "53.79"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "53.92"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "53.99"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "54.72"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "54.79"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "54.92"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "54.95"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "54.99"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "55.02"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "55.19"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "55.26"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "55.62"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "55.66"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "55.69"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "55.82"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "56.06"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "56.09"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "56.26"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "56.29"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "56.32"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "56.39"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "56.42"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "56.46"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "56.52"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "56.56"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "56.59"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "56.66"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "56.72"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "56.89"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "56.99"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "57.06"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "57.12"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "57.22"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "57.29"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "57.36"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "57.42"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "57.56"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "57.59"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "57.69"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "57.89"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "57.92"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "57.99"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "58.02"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "58.06"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "58.09"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "58.19"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "58.26"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "58.29"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "58.32"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "58.39"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "58.43"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "58.63"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "58.83"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "58.89"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "58.93"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "58.96"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "58.99"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "59.03"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "59.13"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "59.16"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "59.19"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "59.26"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "59.29"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "59.33"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "59.36"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "59.39"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "59.43"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "59.46"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "59.49"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "59.53"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "59.56"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "59.59"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "59.69"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "59.76"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "59.79"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "59.83"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "59.86"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "59.96"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "59.99"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "60.03"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "60.06"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "60.09"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "60.23"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "60.26"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "60.33"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "60.46"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "60.63"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "60.66"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "60.96"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "61.16"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "61.19"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "61.23"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "61.26"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "61.29"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "61.46"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "61.49"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "61.53"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "61.56"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "61.59"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "61.63"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "61.66"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "61.69"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "61.73"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "61.86"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "61.96"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "62.06"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "62.16"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "62.2"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "62.4"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "62.43"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "62.53"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "62.6"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "62.66"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "62.76"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "62.9"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "62.96"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "63.0"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "63.03"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "63.06"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "63.43"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "63.56"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "63.6"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "63.63"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "63.7"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "63.73"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "63.83"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "63.86"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "64.03"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "64.06"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "64.1"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "64.13"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "64.16"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "64.2"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "64.23"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "64.3"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "64.33"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "64.36"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "64.56"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "64.6"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "64.7"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "64.73"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "64.76"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "64.8"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "64.86"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "65.03"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "65.13"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "65.47"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "65.53"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "65.57"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "65.6"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "65.7"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "65.73"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "65.83"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "65.87"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "65.9"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "65.93"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "65.97"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "66.0"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "66.03"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "66.07"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "66.1"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "66.13"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "66.17"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "66.2"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "66.23"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "66.27"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "66.3"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "66.33"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "66.4"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "66.43"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "66.47"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "66.5"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "66.6"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "66.63"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "66.67"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "66.73"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "66.77"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "66.8"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "66.83"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "66.9"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "66.93"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "67.0"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "67.07"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "67.13"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "67.2"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "67.3"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "67.33"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "67.4"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "67.5"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "67.57"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "67.63"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "67.7"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "67.73"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "67.77"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "67.8"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "67.93"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "67.97"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "68.07"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "68.23"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "68.27"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "68.3"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "68.33"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "68.37"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "68.47"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "68.5"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "68.57"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "68.64"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "68.67"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "68.74"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "68.8"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "68.87"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "68.9"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "68.94"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "68.97"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "69.0"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "69.04"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "69.1"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "69.14"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "69.17"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "69.2"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "69.27"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "69.3"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "69.34"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "69.4"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "69.44"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "69.5"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "69.54"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "69.57"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "69.6"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "69.64"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "69.7"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "69.74"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "69.8"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "69.84"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "69.9"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "69.94"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "69.97"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "70.0"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "70.7"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "70.87"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "71.0"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "71.07"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "71.1"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "71.14"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "71.37"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "71.44"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "71.54"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "71.67"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "71.7"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "71.74"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "71.97"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "72.01"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "72.07"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "72.14"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "72.21"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "72.24"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "72.27"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "72.31"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "72.34"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "72.41"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "72.61"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "72.64"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "72.71"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "72.74"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "72.77"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "72.81"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "72.87"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "72.91"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "72.94"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "73.11"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "73.14"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "73.17"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "73.24"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "73.31"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "73.47"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "73.51"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "73.54"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "73.67"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "73.74"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "73.94"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "73.97"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "74.01"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "74.04"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "74.07"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "74.34"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "74.41"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "74.47"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "74.51"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "74.81"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "74.91"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "74.94"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "74.97"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "75.01"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "75.04"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "75.08"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "75.21"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "75.24"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "75.31"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "75.34"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "75.41"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "75.44"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "75.48"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "75.51"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "75.54"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "75.58"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "75.61"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "75.64"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "75.74"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "75.78"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "75.88"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "75.91"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "75.94"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "76.01"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "76.04"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "76.11"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "76.14"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "76.18"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "76.21"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "76.24"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "76.31"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "76.34"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "76.38"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "76.41"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "76.48"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "76.58"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "76.61"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "76.64"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "76.71"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "76.74"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "76.78"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "76.88"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "76.91"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "77.01"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "77.08"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "77.11"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "77.14"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "77.21"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "77.31"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "77.34"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "77.38"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "77.44"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "77.48"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "77.51"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "77.54"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "77.58"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "77.61"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "77.64"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "77.81"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "77.84"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "77.94"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "77.98"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "78.01"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "78.04"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "78.08"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "78.11"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "78.14"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "78.18"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "78.21"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "78.24"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "78.28"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "78.31"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "78.34"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "78.38"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "78.41"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "78.45"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "78.48"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "78.51"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "78.55"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "78.58"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "78.61"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "78.71"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "78.75"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "78.81"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "78.85"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "78.88"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "78.91"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "78.95"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "79.15"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "79.18"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "79.21"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "79.25"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "79.28"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "79.35"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "79.41"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "79.78"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "79.81"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "79.91"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "80.21"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "80.25"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "80.55"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "80.61"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "80.68"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "80.75"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "80.81"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "80.91"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "80.95"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "80.98"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "81.01"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "81.05"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "81.15"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "81.18"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "81.21"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "81.35"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "81.41"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "81.45"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "81.48"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "81.55"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "81.58"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "81.68"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "81.71"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "81.75"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "81.78"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "81.82"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "81.85"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "81.88"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "81.92"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "82.08"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "82.18"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "82.22"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "82.25"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "82.35"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "82.45"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "82.48"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "82.62"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "82.68"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "82.72"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "82.75"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "82.85"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "82.88"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "83.05"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "83.08"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "83.12"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "83.15"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "83.25"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "83.28"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "83.42"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "83.45"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "83.48"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "83.52"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "83.55"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "83.62"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "83.65"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "83.72"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "83.82"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "83.85"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "83.92"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "83.98"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "84.02"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "84.05"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "84.08"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "84.12"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "84.18"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "84.22"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "84.25"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "84.28"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "84.32"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "84.35"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "84.38"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "84.42"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "84.45"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "84.48"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "84.55"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "84.58"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "84.65"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "84.68"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "84.75"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "84.78"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "84.82"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "84.92"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "85.09"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "85.12"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "85.15"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "85.29"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "85.32"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "85.39"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "85.49"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "85.52"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "85.55"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "85.62"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "85.65"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "85.69"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "85.75"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "85.79"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "85.82"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "85.95"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "86.02"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "86.05"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "86.12"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "86.19"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "86.22"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "86.25"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "86.32"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "86.35"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "86.39"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "86.42"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "86.45"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "86.52"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "86.55"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "86.59"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "86.62"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "86.65"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "86.69"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "86.72"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "86.82"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "86.89"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "86.92"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "86.95"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "86.99"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "87.02"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "87.05"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "87.12"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "87.22"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "87.25"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "87.32"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "87.35"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "87.39"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "87.49"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "87.55"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "87.59"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "87.62"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "87.69"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "87.75"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "87.79"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "87.82"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "87.85"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "87.89"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "87.95"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "87.99"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "88.02"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "88.05"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "88.09"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "88.22"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "88.29"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "88.32"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "88.35"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "88.39"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "88.42"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "88.49"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "88.62"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "88.69"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "88.72"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "88.76"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "88.79"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "88.82"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "88.86"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "88.89"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "88.92"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "88.99"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "89.12"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "89.16"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "89.19"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "89.22"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "89.26"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "89.32"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "89.36"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "89.39"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "89.59"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "89.62"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "89.66"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "89.69"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "89.72"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "89.76"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "89.79"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "89.82"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "89.86"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "89.89"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "89.92"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "89.96"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "90.06"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "90.09"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "90.12"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "90.16"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "90.19"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "90.22"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "90.26"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "90.29"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "90.32"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "90.39"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "90.42"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "90.49"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "90.52"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "90.56"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "90.66"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "90.69"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "90.72"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "90.76"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "90.86"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "90.89"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "90.92"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "91.02"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "91.06"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "91.09"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "91.12"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "91.42"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "91.49"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "91.66"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "91.69"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "91.72"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "91.76"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "91.79"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "91.83"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "91.93"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "91.99"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "92.06"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "92.19"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "92.23"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "92.26"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "92.29"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "92.36"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "92.39"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "92.59"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "92.63"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "92.69"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "92.73"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "92.76"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "92.79"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "92.86"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "92.93"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "93.13"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "93.16"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "93.19"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "93.26"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "93.36"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "93.43"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "93.56"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "93.69"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "93.73"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "93.79"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "94.09"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "94.13"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "94.16"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "94.39"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "94.49"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "94.53"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "95.06"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "95.09"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "95.13"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "95.16"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "95.2"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "95.3"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "95.33"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "95.43"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "95.5"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "95.6"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "95.63"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "95.7"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "95.73"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "95.76"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "95.8"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "95.83"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "95.86"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "95.9"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "95.93"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "95.96"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "96.0"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "96.03"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "96.1"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "96.16"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "96.2"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "96.23"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "96.26"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "96.3"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "96.6"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "96.63"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "96.8"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "96.83"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "96.86"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "96.9"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "96.93"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "96.96"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "97.03"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "97.66"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "97.7"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "98.47"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "98.5"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "98.6"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "98.63"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "98.67"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "98.7"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "99.03"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "99.13"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "99.43"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "99.47"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "99.5"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "99.57"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "99.67"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "100.0"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "100.03"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "100.23"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "100.37"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "100.43"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "100.47"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "100.57"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "100.77"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "100.8"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "100.9"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "100.93"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "101.0"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "101.17"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "101.2"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "101.23"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "101.3"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "101.33"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "101.7"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "101.73"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "101.77"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "101.8"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "101.84"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "101.97"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "102.07"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "102.1"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "102.17"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "102.2"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "102.3"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "102.34"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "102.37"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "102.4"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "103.04"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "103.37"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "103.47"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "103.5"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "103.87"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "103.9"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "103.94"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "104.17"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "104.34"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "104.37"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "104.4"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "104.44"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "104.6"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "105.21"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "105.74"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "105.84"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "105.87"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "106.57"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "106.64"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "106.94"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "107.01"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "107.04"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "107.07"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "107.11"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "107.14"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "107.51"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "107.54"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "107.61"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "107.64"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "107.71"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "107.81"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "107.84"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "107.91"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "107.94"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "108.01"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "108.07"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "108.21"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "108.24"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "108.27"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "108.44"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "108.51"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "108.54"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "108.58"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "108.61"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "108.71"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "108.74"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "108.78"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "108.94"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "108.98"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "109.04"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "109.08"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "109.11"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "109.14"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "109.44"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "109.51"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "109.54"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "109.58"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "109.61"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "109.91"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "110.11"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "110.14"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "110.28"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "110.51"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "110.54"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "110.74"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "110.88"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "110.98"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "111.01"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "111.21"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "111.28"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "111.31"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "111.34"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "111.41"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "111.51"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "112.31"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "112.35"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "112.41"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "112.45"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "112.55"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "112.65"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "112.75"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "112.78"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "112.88"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "112.98"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "113.11"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "113.21"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "113.31"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "113.35"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "113.55"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "114.08"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "114.18"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "114.25"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "114.31"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "114.35"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "114.38"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "114.48"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "114.51"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "114.55"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "114.58"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "114.68"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "114.75"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "114.91"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "114.95"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "114.98"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "115.08"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "115.28"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "116.05"
+        },
+        {
+            "event_type": "EXIT",
+            "timestamp": "116.08"
+        },
+        {
+            "event_type": "ENTER",
+            "timestamp": "116.12"
+        }
+    ],
+    "total_count": [
+        {
+            "people_count": 12,
+            "timestamp": "0"
+        },
+        {
+            "people_count": 10,
+            "timestamp": "1"
+        },
+        {
+            "people_count": 13,
+            "timestamp": "2"
+        },
+        {
+            "people_count": 10,
+            "timestamp": "3"
+        },
+        {
+            "people_count": 12,
+            "timestamp": "4"
+        },
+        {
+            "people_count": 7,
+            "timestamp": "5"
+        },
+        {
+            "people_count": 6,
+            "timestamp": "6"
+        },
+        {
+            "people_count": 5,
+            "timestamp": "7"
+        },
+        {
+            "people_count": 6,
+            "timestamp": "8"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "9"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "10"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "11"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "12"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "13"
+        },
+        {
+            "people_count": 0,
+            "timestamp": "14"
+        },
+        {
+            "people_count": 0,
+            "timestamp": "15"
+        },
+        {
+            "people_count": 0,
+            "timestamp": "16"
+        },
+        {
+            "people_count": 0,
+            "timestamp": "17"
+        },
+        {
+            "people_count": 0,
+            "timestamp": "18"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "19"
+        },
+        {
+            "people_count": 0,
+            "timestamp": "20"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "21"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "22"
+        },
+        {
+            "people_count": 0,
+            "timestamp": "23"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "24"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "25"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "26"
+        },
+        {
+            "people_count": 0,
+            "timestamp": "27"
+        },
+        {
+            "people_count": 0,
+            "timestamp": "28"
+        },
+        {
+            "people_count": 0,
+            "timestamp": "29"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "30"
+        },
+        {
+            "people_count": 0,
+            "timestamp": "31"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "32"
+        },
+        {
+            "people_count": 0,
+            "timestamp": "33"
+        },
+        {
+            "people_count": 0,
+            "timestamp": "34"
+        },
+        {
+            "people_count": 0,
+            "timestamp": "35"
+        },
+        {
+            "people_count": 0,
+            "timestamp": "36"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "37"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "38"
+        },
+        {
+            "people_count": 3,
+            "timestamp": "39"
+        },
+        {
+            "people_count": 3,
+            "timestamp": "40"
+        },
+        {
+            "people_count": 0,
+            "timestamp": "41"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "42"
+        },
+        {
+            "people_count": 0,
+            "timestamp": "43"
+        },
+        {
+            "people_count": 0,
+            "timestamp": "44"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "45"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "46"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "47"
+        },
+        {
+            "people_count": 6,
+            "timestamp": "48"
+        },
+        {
+            "people_count": 4,
+            "timestamp": "49"
+        },
+        {
+            "people_count": 5,
+            "timestamp": "50"
+        },
+        {
+            "people_count": 4,
+            "timestamp": "51"
+        },
+        {
+            "people_count": 5,
+            "timestamp": "52"
+        },
+        {
+            "people_count": 5,
+            "timestamp": "53"
+        },
+        {
+            "people_count": 5,
+            "timestamp": "54"
+        },
+        {
+            "people_count": 4,
+            "timestamp": "55"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "56"
+        },
+        {
+            "people_count": 4,
+            "timestamp": "57"
+        },
+        {
+            "people_count": 3,
+            "timestamp": "58"
+        },
+        {
+            "people_count": 3,
+            "timestamp": "59"
+        },
+        {
+            "people_count": 5,
+            "timestamp": "60"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "61"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "62"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "63"
+        },
+        {
+            "people_count": 5,
+            "timestamp": "64"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "65"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "66"
+        },
+        {
+            "people_count": 4,
+            "timestamp": "67"
+        },
+        {
+            "people_count": 3,
+            "timestamp": "68"
+        },
+        {
+            "people_count": 3,
+            "timestamp": "69"
+        },
+        {
+            "people_count": 4,
+            "timestamp": "70"
+        },
+        {
+            "people_count": 3,
+            "timestamp": "71"
+        },
+        {
+            "people_count": 4,
+            "timestamp": "72"
+        },
+        {
+            "people_count": 6,
+            "timestamp": "73"
+        },
+        {
+            "people_count": 4,
+            "timestamp": "74"
+        },
+        {
+            "people_count": 7,
+            "timestamp": "75"
+        },
+        {
+            "people_count": 5,
+            "timestamp": "76"
+        },
+        {
+            "people_count": 6,
+            "timestamp": "77"
+        },
+        {
+            "people_count": 5,
+            "timestamp": "78"
+        },
+        {
+            "people_count": 4,
+            "timestamp": "79"
+        },
+        {
+            "people_count": 4,
+            "timestamp": "80"
+        },
+        {
+            "people_count": 5,
+            "timestamp": "81"
+        },
+        {
+            "people_count": 5,
+            "timestamp": "82"
+        },
+        {
+            "people_count": 7,
+            "timestamp": "83"
+        },
+        {
+            "people_count": 8,
+            "timestamp": "84"
+        },
+        {
+            "people_count": 4,
+            "timestamp": "85"
+        },
+        {
+            "people_count": 8,
+            "timestamp": "86"
+        },
+        {
+            "people_count": 9,
+            "timestamp": "87"
+        },
+        {
+            "people_count": 7,
+            "timestamp": "88"
+        },
+        {
+            "people_count": 7,
+            "timestamp": "89"
+        },
+        {
+            "people_count": 5,
+            "timestamp": "90"
+        },
+        {
+            "people_count": 6,
+            "timestamp": "91"
+        },
+        {
+            "people_count": 4,
+            "timestamp": "92"
+        },
+        {
+            "people_count": 3,
+            "timestamp": "93"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "94"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "95"
+        },
+        {
+            "people_count": 3,
+            "timestamp": "96"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "97"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "98"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "99"
+        },
+        {
+            "people_count": 3,
+            "timestamp": "100"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "101"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "102"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "103"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "104"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "105"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "106"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "107"
+        },
+        {
+            "people_count": 4,
+            "timestamp": "108"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "109"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "110"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "111"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "112"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "113"
+        },
+        {
+            "people_count": 1,
+            "timestamp": "114"
+        },
+        {
+            "people_count": 2,
+            "timestamp": "115"
+        },
+        {
+            "people_count": 0,
+            "timestamp": "116"
+        }
+    ]
+}
